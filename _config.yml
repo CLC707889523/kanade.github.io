@@ -1,7 +1,7 @@
 # Site
-title:              Gunbuster
-bio:                '个人履历介绍'
-description:        "走在了无牵挂后"
+title:              陈理聪
+bio:                '走在了无牵挂后'
+description:        "Gunbuster"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/xiaoCong.jpeg'
@@ -38,24 +38,24 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            CLC0418
+# facebook:           username
+github-url:         CLC707889523
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+# instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-#weibo:             username
+weibo:              6616916910/profile?rightmod=1&wvr=6&mod=personinfo
 #flickr:            username
 #codepen:           username
 #keybase:           username
@@ -63,7 +63,7 @@ steam:              username
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
