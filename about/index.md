@@ -8,32 +8,49 @@ comments: false
     
 <center>这是一份来自96年双子座的基础信息</center>
 
+* 一年web前端开发经验，熟悉<b>Meteor</b>全栈开发框架，了解<b>Node.js</b>,作为主力工程师之一参与开发过项目，负责系统与业务核心模块的开发。了解<b>Angular，Vue，elementUI，ionic等</b>前端框架的用法，了解<b>MongoDB</b>与<b>MySQL</b>的区别和使用场景与方法，了解<b>Ubuntu</b>下的<b>Node.js + Nginx + MongoDB</b>的开发环境搭建，了解<b>Redis</b>。有优秀的学习能力和团队沟通能力，经常与团队进行技术讨论，热衷学习计算机技术。
+
 ## 基本信息
 * 陈理聪
 * 邮箱:chenlicong0418@hotmail.com
 * 电话:17620443252
-* 求职意向:web前端开发工程师
+* 求职意向:Web前端开发工程师
 
 ## 教育情况
 * 长沙民政职业技术学院
 * 专业:软件开发
 * 2014年-2017年
 
-## 简介
-* 一年web前端开发经验，熟悉<b>Meteor</b>全栈开发框架，了解<b>Node.js</b>,作为主力工程师之一参与开发过项目，负责系统与业务核心模块的开发。了解<b>Angular，Vue，elementUI，ionic等</b>前端框架的用法，了解<b>MongoDB</b>与<b>MySQL</b>的区别和使用场景与方法，了解<b>Ubuntu</b>下的<b>Node.js + Nginx + MongoDB</b>的开发环境搭建，了解<b>Redis</b>。有优秀的学习能力和团队沟通能力，经常与团队进行技术讨论，热衷学习计算机技术。
+## 技能列表
+* 后端框架:Meteor，Node.js
+* 前端框架:Angular，Vue，Ionic等
+* 数据库:MongoDB，MySQL，Redis
+* 工具:Docker，Git
+* 其他:TCP/IP，Webpack，ECharts
 
-## Preview
+## 工作经历
+### 深圳市好住科技有限公司
+* 2018年4月-2019年4月/开发工程师
+* 1、作为开发成员之一负责面向客户的web页面与功能构建。
+* 2、根据需求变化进行项目版本迭代。
+* 3、不断优化项目代码，提升网页效率。
+<left><b>teachtours外教招聘项目</b></left>
+* teachtours-web:作为主要工程师之一，使用<b>Meteor</b>全栈开发框架，提高开发速度，前端使用<b>angular</b>结合设计图与具体需求进行构建，实现了登录注册、找回密码、邮件验证、多条件数据筛选、报名申请，文章发布等6个主体功能。
+* teachtours-admin:使用<b>Vue</b>构建前端UI，实现对web页面数据的预览与审核，权限管理等功能。
+* teachtours-org:针对机构构建的业务发布页面，包括业务的实时审核与上下架，权限管理等功能。
+* teachtours-mobile:前端框架采用<b>Ionic</b>与<b>ElementUI</b>结合的方式，构建适配大多数手机浏览器的自适应独立页面。
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<left>
+    <a class="btn zoombtn" href="{{ site.url }}/projects">
+        <b>点我查看更多</b>
+    </a> 
+</left>
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+### 深圳市中诚金服旗子公司城市评土地评估有限公司
+* 2018年6月-2018年4月/评估助理
+* 1、熟悉公司业务并协助技术部开发人员重构内部系统。
 
-## Getting Started
+## 兴趣爱好
+* 倒腾VPS（Ubuntu）
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
