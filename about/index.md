@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 既然来了，可否一览？
+title: 陈理聪-web前端开发
 tags: [个人简历, Jekyll, theme]
 date: 2019-02-27
 comments: false
@@ -40,6 +40,9 @@ comments: false
 * teachtours-org:针对机构构建的业务发布页面，包括业务的实时审核与上下架，权限管理等功能。
 * teachtours-mobile:前端框架采用<b>Ionic</b>与<b>ElementUI</b>结合的方式，构建适配大多数手机浏览器的自适应独立页面。
 
+<left><b>investment-web业务报表系统</b></left>
+* 一个简单的管理层内部应用。
+* 运用<b>angular</b>实现了完善的基础登陆注册找回密码功能模块，实现了添加用户的功能与用户列表展示。
 <left>
     <a class="btn zoombtn" href="{{ site.url }}/projects">
         <b>点我查看更多</b>
@@ -52,5 +55,8 @@ comments: false
 
 ## 兴趣爱好
 * 倒腾VPS（Ubuntu）
+
+## 感激
+* 十分感谢您能看到这里，谢谢你！
 
 
