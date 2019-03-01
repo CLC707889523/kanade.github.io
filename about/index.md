@@ -15,6 +15,7 @@ comments: false
 * 邮箱:chenlicong0418@hotmail.com
 * 电话:17620443252
 * 求职意向:Web前端开发工程师
+* 目前状态:在职/一个月内到岗
 
 ## 教育情况
 * 长沙民政职业技术学院
@@ -31,18 +32,24 @@ comments: false
 ## 工作经历
 ### 深圳市好住科技有限公司
 * 2018年4月-2019年4月/开发工程师
-* 1、作为开发成员之一负责面向客户的web页面与功能构建。
+* 1、作为开发成员之一负责web与mobile页面的功能构建。
 * 2、根据需求变化进行项目版本迭代。
 * 3、不断优化项目代码，提升网页效率。
+
 <left><b>teachtours外教招聘项目</b></left>
+
 * teachtours-web:作为主要工程师之一，使用<b>Meteor</b>全栈开发框架，提高开发速度，前端使用<b>angular</b>结合设计图与具体需求进行构建，实现了登录注册、找回密码、邮件验证、多条件数据筛选、报名申请，文章发布等6个主体功能。
 * teachtours-admin:使用<b>Vue</b>构建前端UI，实现对web页面数据的预览与审核，权限管理等功能。
 * teachtours-org:针对机构构建的业务发布页面，包括业务的实时审核与上下架，权限管理等功能。
 * teachtours-mobile:前端框架采用<b>Ionic</b>与<b>ElementUI</b>结合的方式，构建适配大多数手机浏览器的自适应独立页面。
+* 项目链接:https://www.teachtours.com
 
 <left><b>investment-web业务报表系统</b></left>
+
 * 一个简单的管理层内部应用。
 * 运用<b>angular</b>实现了完善的基础登陆注册找回密码功能模块，实现了添加用户的功能与用户列表展示。
+* 项目链接:http://teach-tour.com
+
 <left>
     <a class="btn zoombtn" href="{{ site.url }}/projects">
         <b>点我查看更多</b>
