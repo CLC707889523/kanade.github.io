@@ -23,23 +23,19 @@ comments: false
 * teachtours-admin:使用<b>Vue</b>与<b>ElementUI</b>构建前端UI，实现对web页面数据的预览与审核，权限管理等功能。
 * teachtours-org:针对机构的业务发布页面，包括业务的实时审核与上下架，权限管理等功能。
 * teachtours-mobile:前端框架采用<b>angular</b>与<b>Ionic</b>开发，项目功能与web一致，开发过程中遇到Swiper插件与Echarts组件在小屏手机下的错位与渲染顺序问题，通过重新调整组件参数与异步方法渲染，成功解决了这些问题。
-* 项目链接:https://www.teachtours.com
+* 项目链接:<a target="_blank" href="https://www.teachtours.com">https://www.teachtours.com</a>
 
 <left><b>investment-web业务报表系统</b></left>
 
 * 一个简单的管理层内部应用。
 * 运用<b>angular</b>实现了完善的基础登陆注册找回密码功能模块，实现了添加用户的功能与用户列表展示。
-* 项目链接:http://teach-tour.com
+* 项目链接:<a target="_blank" href="http://teach-tour.com">http://teach-tour.com</a>
 
 <left>
     <a class="btn zoombtn" href="{{ site.url }}/projects">
         <b>点我查看更多</b>
     </a> 
 </left>
-
-### 深圳市中诚金服旗子公司城市评土地评估有限公司
-* 2018年6月-2018年4月/评估助理
-* 1、熟悉公司业务并协助技术部开发人员重构内部系统。
 
 ## 基本信息
 * 姓名:陈理聪
