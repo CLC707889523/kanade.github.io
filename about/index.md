@@ -17,13 +17,21 @@ comments: false
 * 2、根据需求变化进行项目版本迭代。
 * 3、优化项目代码，提升网页效率。
 
-<left><b>teachtours外教招聘项目</b></left>
+<left><b>teachtours外教招聘项目</b>2018年4月至2018年8月</left>
 
 * teachtours-web:使用<b>Meteor</b>全栈开发框架，提高开发速度，前端使用<b>angular</b>结合设计图与具体需求进行构建，实现了登录注册、找回密码、邮件验证、多条件数据筛选、工作申请，文章发布等6个主体功能，并将功能公用化/组件化，方便后续项目的引用与代码维护。
 * teachtours-admin:使用<b>Vue</b>与<b>ElementUI</b>构建前端UI，实现对web页面数据的预览与审核，权限管理等功能。
 * teachtours-org:针对机构的业务发布页面，包括业务的实时审核与上下架，权限管理等功能。
 * teachtours-mobile:前端框架采用<b>angular</b>与<b>Ionic</b>开发，项目功能与web一致，开发过程中遇到Swiper插件与Echarts组件在小屏手机下的错位与渲染顺序问题，通过重新调整组件参数与异步方法渲染，成功解决了这些问题。
 * 项目链接:<a target="_blank" href="https://www.teachtours.com">https://www.teachtours.com</a>
+
+<left><b>Haoschool好思库</b>2018年9月至2018年12月</left>
+
+* 帮助留学生申请美国学校并兼顾社交的平台，以Node.js为平台，Meteor为应用框架，包含Web端以及手机端
+* 前端:<b>AngularJS</b>+<b>Ionic移动端</b>/<b>Bootstrap</b>Web端，<b>Prerender.io处理/b><b>SEO</b>
+* 后端:<b>MongoDB</b>/<b>Redis</b>/<b>Elasticsearch</b>/<b>WebScoket</b>/<b>RabbitMQ</b>等
+* 其他技术、工具和方法:<b>Git</b>/<b>Webpack</b>/<b>Docker</b>
+* 项目链接:<a target="_blank" href="https//haoschool.com">https//haoschool.com</a>
 
 <left><b>investment-web业务报表系统</b></left>
 

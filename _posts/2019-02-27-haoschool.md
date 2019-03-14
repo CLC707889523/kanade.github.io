@@ -1,8 +1,7 @@
----
 layout: post
-title:  "investment-web"
+title:  "haoschool"
 date:   2019-02-27
-excerpt: "业务报表系统"
+excerpt: "好思库，美国高校信息查询与社交平台"
 project: true
 tag:
 - jekyll 
