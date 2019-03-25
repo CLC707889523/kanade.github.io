@@ -8,8 +8,8 @@ const addComment = async (params) => {
 
 const getCommentsByPostId = async (params) => {
   console.log(params)
-  let pageNum = params.pageNum ? parseInt(params.pageNum) : 1,
-  pageSize = params.pageSize ? parseInt(params.pageSize) : 10
+  let pageNum = params.pageNum ? parseInt(params.pageNum) : 1
+  let pageSize = params.pageSize ? parseInt(params.pageSize) : 10
   let skip = pageNum === 1 ? 0 : (pageNum - 1) * pageSize
   let queryObj = {
     status: 1,
@@ -17,8 +17,8 @@ const getCommentsByPostId = async (params) => {
   }
   // Comment.find(queryObj).skip(skip).limit(pageSize).sort({createdAt: -1})
 
-  return new Promise((resolve,reject) => {
-    Comment.find(queryObj, '',{sort:{createdAt}}), (error, result) => {
+  return new Promise((resolve, reject) => {
+    Comment.find(queryObj, '', {sort:{createdAt}}), (error, result) => {
       if (error) {
         reject(error)
       }else {
@@ -39,7 +39,7 @@ const getCommentsByPostId = async (params) => {
           }
         }
       }
-    }
+    })
   })
 }
 
