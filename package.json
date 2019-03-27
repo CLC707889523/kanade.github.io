@@ -17,6 +17,7 @@
     "bcrypt": "^3.0.5",
     "element-ui": "^2.6.3",
     "eslint-loader": "^2.1.2",
+    "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.4.19",
     "vue": "^2.5.2",
