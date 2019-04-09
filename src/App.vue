@@ -1,6 +1,8 @@
 <template>
   <div>
+    <div class="header">2333</div>
     <router-view></router-view>
+    <div class="footer">23333</div>
   </div>
 </template>
 
@@ -37,5 +39,9 @@ export default {
 #button-center {
   text-align: center;
   margin: 120px 0px
+}
+
+.header{
+  background-color: aqua;
 }
 </style>
