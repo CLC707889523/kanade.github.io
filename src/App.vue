@@ -1,15 +1,6 @@
 <template>
   <div>
-    <div id = "app">
-      <h4>Welcome to kanade's blog!</h4>
-    </div>
-    <el-row id = "infomation">
-      <el-col :span="24">这个项目采用了Vue+ElementUI+Express+Node+Webpack+mongoose</el-col>
-      <el-col :span="24">另外还有jsonwebtoken+bcrypt的跨域用户信息服务器验证</el-col>
-    </el-row>
-    <el-row id = "button-center" >
-      <el-button @click="clickButton()" type = "success">点我</el-button>
-    </el-row>
+    <router-view></router-view>
   </div>
 </template>
 
